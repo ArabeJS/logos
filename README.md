@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.astronomer.io/" target="_blank">Astronomer</a>
+![astronomer](https://cdn.svgporn.com/logos/astronomer.svg)
 ## <a href="https://medium.com/" target="_blank">Medium</a>
 ![medium](https://cdn.svgporn.com/logos/medium.svg)
 ## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
@@ -48,8 +50,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![zendesk](https://cdn.svgporn.com/logos/zendesk.svg)
 ## <a href="https://altair.sirmuel.design/" target="_blank">Altair</a>
 ![altair](https://cdn.svgporn.com/logos/altair.svg)
-## <a href="https://www.astronomer.io/" target="_blank">Astronomer</a>
-![astronomer](https://cdn.svgporn.com/logos/astronomer.svg)
 ## <a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>
 ![kibana](https://cdn.svgporn.com/logos/kibana.svg)
 ## <a href="https://www.packer.io/" target="_blank">Packer</a>
