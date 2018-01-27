@@ -18,6 +18,10 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://medium.com/" target="_blank">Medium</a>
+![medium](https://cdn.svgporn.com/logos/medium.svg)
+## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
+![processwire](https://cdn.svgporn.com/logos/processwire.svg)
 ## <a href="https://github.com/avajs/ava" target="_blank">Ava</a>
 ![ava](https://cdn.svgporn.com/logos/ava.svg)
 ## <a href="https://branch.io/" target="_blank">Branch</a>
@@ -114,10 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![webmin](https://cdn.svgporn.com/logos/webmin.svg)
 ## <a href="https://zeit.co/" target="_blank">Zeit</a>
 ![zeit](https://cdn.svgporn.com/logos/zeit.svg)
-## <a href="http://www.apache.org/" target="_blank">Apache</a>
-![apache](https://cdn.svgporn.com/logos/apache.svg)
-## <a href="https://www.ibm.com/" target="_blank">IBM</a>
-![ibm](https://cdn.svgporn.com/logos/ibm.svg)
 
 ---
 
